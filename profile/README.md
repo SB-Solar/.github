@@ -36,13 +36,13 @@ Gömülü sistemlerimizde kaynak yönetimini (Heap durumu, fragmentasyon önleme
 Projelerimiz hakkında bilgi almak, iş birliği yapmak veya ekibimize katılmak için bize ulaşabilirsiniz:
 
 <p align="left">
-  <a href="mailto:info@sbsolar.com">
+  <a href="mailto:bilgi@sbsolar.com.tr">
     <img src="https://shields.io" alt="Email" />
   </a>
   <a href="https://linkedin.com">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
-  <a href="https://sbsolar.com">
+  <a href="https://sbsolar.com.tr">
     <img src="https://shields.io" alt="Website" />
   </a>
 </p>
